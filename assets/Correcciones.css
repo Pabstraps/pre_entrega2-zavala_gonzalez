@@ -1,0 +1,38 @@
+
+.vertical_nav {
+      padding-left: 10px;
+      padding-top: 20px;
+      border-left-style: solid black;
+      
+}
+
+.logo {
+      padding-right: 10px;
+}
+
+.Carousel{
+      max-width: 50%;
+      padding: 20px 20px 60px 20px;
+}
+
+.footer {
+      display: flex;
+      flex-direction: row;
+      justify-content:center;
+}
+
+section {
+      background-color: gainsboro;
+}
+
+.perfil {
+      border-radius: 100%;
+      margin-bottom: 50px;
+      padding-top: 100px;
+
+}
+
+.cambiar_imagen {
+      padding-bottom: 130px;
+
+}
