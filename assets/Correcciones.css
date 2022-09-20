@@ -11,28 +11,43 @@
 }
 
 .Carousel{
-      max-width: 50%;
+      margin-left: 15%;
+      max-width: 70%;
       padding: 20px 20px 60px 20px;
+     
 }
 
 .footer {
       display: flex;
       flex-direction: row;
-      justify-content:center;
+      justify-content:space-around;
+      text-decoration: none;
+      
 }
+
+.footer_hijo {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+}
+
+.selectores {
+      text-decoration: none;
+      color:blueviolet;
+}
+
 
 section {
       background-color: gainsboro;
-}
-
-.perfil {
-      border-radius: 100%;
-      margin-bottom: 50px;
-      padding-top: 100px;
-
 }
 
 .cambiar_imagen {
       padding-bottom: 130px;
 
 }
+
+.perfil {
+      padding: 5%;
+      
+}
+
